@@ -40,3 +40,9 @@ o	Displaying the predicted price and other relevant information to the user in a
 •	joblib: For saving and loading the trained machine learning model.
 
 
+# REPRESENTATION OF WEB INTERFACE--
+<img width="1106" height="588" alt="image" src="https://github.com/user-attachments/assets/84519dcd-19ff-4ab8-9e56-dff7d6f06bda" />
+
+<img width="1104" height="595" alt="image" src="https://github.com/user-attachments/assets/bd97f294-ded0-489f-b269-a4938f79a201" />
+
+
