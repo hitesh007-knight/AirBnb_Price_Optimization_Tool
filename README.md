@@ -13,7 +13,7 @@ Core Technologies
 •	Streamlit: An open-source Python library used to create and deploy interactive web applications for machine learning and data science. It provides a simple and fast way to build the user interface for our price prediction tool.
 Project Components--
 
-The project is structured into two main components that work together to form the final application:
+The project is structured into three main components that work together to form the final application:
 
 1.	airbnb_model_trainer.py: This is the backend script responsible for all the machine learning logic. Its functions include:
 o	Loading and cleaning the raw data.
@@ -39,5 +39,4 @@ o	Displaying the predicted price and other relevant information to the user in a
 •	scikit-learn: For all machine learning operations, including data preprocessing and model training.
 •	joblib: For saving and loading the trained machine learning model.
 
-#2.Dataset Description
-The project is based on the Airbnb NYC Open Data dataset, which provides detailed information on various Airbnb listings in New York City for the year 2019. The dataset contains a total of 48,895 listings and 16 attributes.
+
